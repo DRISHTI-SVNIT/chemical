@@ -268,21 +268,6 @@
      .heading {
         font-size: 35px;
     }
-    .project_photo , .tensegrity_photo, .truss_photo {
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-        height: auto;
-        width: 100%;
-    }
-
-    .bridge_photo{
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-        height: auto;
-        width: 105%;
-    }
-   
+    
 }
 
