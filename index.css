@@ -81,7 +81,11 @@ body {
     margin-top: 100px;
     margin-bottom: 100px;
 }
-
+.hello6 {
+    height: 250px;
+    margin-top: 225px;
+    margin-bottom: 225px;
+}
  h3 {
      font-family: Bookman Header;
      font-style: bold;
@@ -192,6 +196,11 @@ body {
         margin-top: 100px;
         margin-bottom: 100px;
     }
+    .hello6 {
+        height: 150px;
+        margin-top: 125px;
+        margin-bottom: 125px;
+    }
 }
 
  @media (max-width: 600.98px) { 
@@ -268,6 +277,11 @@ body {
     }
 
     .hello5 {
+        height:150px;
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+    .hello6 {
         height:150px;
         margin-bottom: 50px;
         margin-top: 50px;
