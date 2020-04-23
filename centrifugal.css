@@ -156,6 +156,7 @@ a:hover {
         margin-left: auto;
         display: inline-block;
         width: 60%;
+        height: 70%;
         margin-top: 5%;
         margin-bottom: 5%;
     }
@@ -198,8 +199,8 @@ a:hover {
         margin-right: auto;
         margin-left: auto;
         display: inline-block;
-        width: 80%;
-        height: 80%;
+        width: 50%;
+        height: 70%;
         margin-top: 5%;
         margin-bottom: 5%;
     }
