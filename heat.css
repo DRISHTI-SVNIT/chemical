@@ -17,7 +17,7 @@ a:hover {
 }
 
 .txt1 {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .heat1 {
@@ -43,7 +43,7 @@ a:hover {
     display: inline-block;
     width: 100%;
     /* height: 80%; */
-    /* margin-top: 5%; */
+    margin-top: 10%;
     margin-left: 5%;
 }
 .cont {
@@ -164,7 +164,7 @@ a:hover {
         font-size: 40px;
     }
 
-    .txt {
+    .txt1 {
         font-size : 20px;
     }
 
