@@ -7,6 +7,16 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.bgr {
+    background-image:url(images/bg.jpg);
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size:100% 100%; 
+    max-width: 100%; 
+    height: auto;
+}
+
 .about-heading {
     text-align: left;
 }
@@ -226,6 +236,10 @@ body {
 }
 
 @media (max-width : 850.98px) {
+    .bgr {
+        background-size: 150% 100%;
+    }
+    
     .hello1 {
         height: 400px;
         padding-right: 5%;
@@ -306,6 +320,11 @@ body {
     .con {
         margin-right: 5%;
     }
+
+    .bgr {
+        background-size: 250% 100%;
+    }
+
     .about-heading {
         text-align: center;
     }
