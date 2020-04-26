@@ -12,7 +12,7 @@ body {
     background-color: rgba(255,255,255,0.6);
     background-blend-mode: lighten;
     background-repeat: no-repeat;
-    background-size:100% 100%; 
+    background-size:cover; 
     max-width: 100%; 
     height: auto;
 }
@@ -213,6 +213,10 @@ body {
     margin-right: 10px;
 }
 @media(max-width:1250px) {
+    .bgr {
+        background-size: 200% 100%;
+        background-position : center;
+    }
     .hello5 {
         height: 350px;
         margin-top: 75px;
@@ -237,7 +241,8 @@ body {
 
 @media (max-width : 850.98px) {
     .bgr {
-        background-size: 150% 100%;
+        background-size: 250% 100%;
+        background-position : center;
     }
     
     .hello1 {
@@ -322,7 +327,7 @@ body {
     }
 
     .bgr {
-        background-size: 250% 100%;
+        background-size: 400% 100%;
     }
 
     .about-heading {
